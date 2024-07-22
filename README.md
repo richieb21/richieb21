@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richard Bai</h1>
 <h3 align="center">A computer science student at the University of Waterloo and a full-stack developer based in Toronto 📍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richieb21&label=Profile%20views&color=0e75b6&style=flat" alt="richieb21" /> </p>
-
 - 🔭 I’m currently working at [Savi Finance](https://financesavi.com/)
 
 - 🌱 I’m currently learning **image detection, cloud hosting, responsive UI**
