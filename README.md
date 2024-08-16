@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Savi Finance](https://financesavi.com/)
 
-- 🌱 I’m currently learning **image detection, cloud hosting, responsive UI**
+- 🌱 I’m currently learning **object detection, microservice development, responsive UI**
 
 - 👯 I’m looking to collaborate on **any open source projects!**
 
