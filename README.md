@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **r25bai@uwaterloo.ca**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/pzwno3tjjx47mmuqqw9wq/Richard_Bai_Resume_AI_External.pdf?rlkey=3lqobba4k1ey0w05t9cme5odq&e=1&dl=0](https://www.dropbox.com/scl/fi/pzwno3tjjx47mmuqqw9wq/Richard_Bai_Resume_AI_External.pdf?rlkey=3lqobba4k1ey0w05t9cme5odq&e=1&dl=0)
+- 📄 Know about my [experiences](https://www.dropbox.com/scl/fi/miqv6ujgxfsng7pxezqjq/resume.pdf?rlkey=fch2diezpydmpsw3ipl1q5668&st=cfwbax29&dl=0)
 
 - ⚡ Fun fact **I love cooking, fishing, playing and watching soccer and basketball**
 
