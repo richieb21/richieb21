@@ -11,7 +11,6 @@
 I’m currently working on:
 - [elitecode](https://github.com/elitecode-org)
 - [roots](https://github.com/richieb21/roots)
-- musicmixer
 - neural graphic primitives and dense pose 
 
 <h3 align="left">Connect with me:</h3>
