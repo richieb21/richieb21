@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Richard Bai</h1>
-<h3 align="center">A computer science student at the University of Waterloo and a full-stack developer based in Waterloo 📍</h3>
+![](https://komarev.com/ghpvc/?username=richieb21&color=04356f)
+<h1 align="center">I'm Richard Bai</h1>
+<h3 align="center">A computer science student at the University of Waterloo and a Software Engineer 📍</h3>
 
 ## 📖 About
 **SWE** at **Trend Micro** working on security in cloud infrastructure.
-- Big interest in the cloud and AI.
-- I love building and designing cool web applications and extensions that makes life less tedious.
-- I play soccer and basketball and I love to cook and fish.
 
 ## 🌱 Currently...
 I’m currently working on:
