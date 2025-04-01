@@ -9,7 +9,7 @@
 I’m currently working on:
 - [elitecode](https://github.com/elitecode-org)
 - [roots](https://github.com/richieb21/roots)
-- neural graphic primitives and dense pose 
+- deployable (tbd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
